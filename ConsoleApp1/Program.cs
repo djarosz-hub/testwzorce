@@ -7,7 +7,6 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-
             VisionExpress visionexpress2 = new VisionExpress();
             GlassesBuilder glassesbuilder2 = new MultifocalBuilder();
             visionexpress2.constructGlasses(glassesbuilder2);

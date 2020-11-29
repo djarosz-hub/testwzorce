@@ -6,7 +6,7 @@ namespace ClassLibrary1
 {
     public class VisionExpress
     {
-        public void constructGlasses(GlassesBuilder glassBuilder)
+        public void ConstructGlasses(GlassesBuilder glassBuilder)
         {
             glassBuilder.BuildLenses();
         }
