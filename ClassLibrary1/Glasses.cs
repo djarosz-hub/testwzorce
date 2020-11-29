@@ -7,9 +7,9 @@ namespace ClassLibrary1
     {
         public string _type;
         public string Lenses { get; set; }
-        public float LensesPrice { get; set; }
+        public double LensesPrice { get; set; }
         public string Rims { get; set; }
-        public float RimsPrice { get; set; }
+        public double RimsPrice { get; set; }
         public double Price { get; set; }
 
         public List<IComposite> AdditionList { get; set; }

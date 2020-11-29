@@ -8,8 +8,8 @@ namespace ClassLibrary1
     {
         public List<IComposite> AddedProducts;
         public string Name { get; set; }
-        public float Price { get; set; }
-        public GlassProduct(Glasses glasses)
+        public double Price { get; set; }
+        public GlassProduct()
         {
             //AddedProducts = glasses.AdditionList;
             AddedProducts = new List<IComposite>();

@@ -1,0 +1,11 @@
+Orders:
+-------------
+typ:Multifocal
+lenses:Multifocal
+lenses price:200
+Rims:Gucci rims
+Rims price:550
+UV filter 400
+Left defect: 10, right defect: -10 600
+Total price:1750
+-------------
